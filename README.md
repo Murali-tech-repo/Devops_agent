@@ -242,3 +242,10 @@ MIT License
 Murali Yadav
 
 AI-Powered DevOps & Automation Engineer
+
+Output 
+
+<img width="1920" height="1080" alt="Screenshot from 2026-05-19 12-02-59" src="https://github.com/user-attachments/assets/b1724af5-fb1a-4bc3-8cf2-30a23f0b1d14" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-19 12-07-07" src="https://github.com/user-attachments/assets/1e0124b2-8589-44f1-a628-625a941fbd31" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-19 12-07-16" src="https://github.com/user-attachments/assets/688f07d4-42be-4a41-b130-89ee1ee98243" />
+
